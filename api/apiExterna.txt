@@ -1,0 +1,1 @@
+https://pro-api.coinmarketcap.com/v1/global-metrics/quotes/latest?CMC_PRO_API_KEY=85f27387-0802-4c95-b0be-151b317afdb5

@@ -1,0 +1,74 @@
+[
+    {
+       "id": 1,
+       "nombre": "Bitcoin",
+       "precio": 38510,
+       "imagen": "./img/bitcoin-ilustracion.png",
+       "capMercado": "733.002.853.308",
+       "favorito": false
+    },
+    {
+       "id": 2,
+       "nombre": "Ethereum",
+       "precio": 2840,
+       "imagen": "./img/ethereum.png",
+       "capMercado": "342.950.439.012",
+       "favorito": false
+    },
+    {
+       "id": 3,
+       "nombre": "Solana",
+       "precio": 100,
+       "imagen": "./img/solana-ilustracion.svg",
+       "capMercado": "29.406.036.468",
+       "favorito": false
+    },
+    {
+       "id": 4,
+       "nombre": "BNB",
+       "precio": 390,
+       "imagen": "./img/bnb.png",
+       "capMercado": "63.814.162.720",
+       "favorito": false
+    },
+    {
+       "id": 5,
+       "nombre": "XRP",
+       "precio": 0.6,
+       "imagen": "./img/xrp.png",
+       "capMercado": "30.055.693.210",
+       "favorito": false
+    },
+    {
+       "id": 6,
+       "nombre": "Cardano",
+       "precio": 0.7,
+       "imagen": "./img/cardano.png",
+       "capMercado": "26.481.337.905",
+       "favorito": false
+    },
+    {
+       "id": 7,
+       "nombre": "Dogecoin",
+       "precio": 0.13,
+       "imagen": "./img/dogecoin.png",
+       "capMercado": "17.404.861.679",
+       "favorito": false
+    },
+    {
+       "id": 8,
+       "nombre": "Polkadot",
+       "precio": 15,
+       "imagen": "./img/polkadot.png",
+       "capMercado": "14.886.570.799",
+       "favorito": false
+    },
+    {
+       "id": 9,
+       "nombre": "Polygon",
+       "precio": 0.7,
+       "imagen": "./img/polygon.png",
+       "capMercado": "8.533.035.414",
+       "favorito": false
+    }
+]

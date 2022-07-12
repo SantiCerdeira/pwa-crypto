@@ -1,0 +1,92 @@
+[
+{
+    "id": 1,
+    "titulo": "Moonbirds, la colección de NFTs que vendió casi USD 300 millones en 4 días",
+    "categoria": "NFTs",
+    "imagen": "./img/moonbirds.jpeg",
+    "imagenOpacidad": "./img/moonbirds-opacidad.jpg",
+    "sinopsis" : "",
+    "texto": "El proyecto de tokens no fungibles (NFT) 'Moonbirds', recién lanzado en Ethereum, se está disparando a la cima de las listas de volúmenes comerciales tras generar ventas por un valor de USD 290 millones en solo cuatro días. Hay un total de 10,000 NFT de avatares de búhos de píxeles generados por ordenador, que se vendieron rápidamente el sábado a un precio mínimo de 2.5 Ethers (ETH) por NFT, o USD 7,700 en el momento de escribir este artículo. El precio mínimo, o la venta media mínima, se ha disparado desde entonces en los mercados secundarios; OpenSea muestra actualmente una fuerte suma de 18.45 ETH, o USD 56,800 en el momento de escribir este artículo.",
+    "leido": false
+},
+{
+    "id": 2,
+    "titulo": "Bitcoin se arriesga a registrar el peor abril de su historia",
+    "categoria": "Cryptos",
+    "imagen": "./img/bitcoin.png",
+    "imagenOpacidad": "./img/bitcoin-opacidad.png",
+    "sinopsis": "El precio de Bitcoin ha bajado un 15% en lo mes, mientras que históricamente, abril se supone que trae ganancias.",
+    "texto": "Aunque los comentaristas del mercado de Bitcoin rara vez se ponen de acuerdo en muchas cosas, una cosa está más o menos aceptada esta semana: que el cierre mensual de abril será volátil. Esa volatilidad puede verse exacerbada por la falta de volumen de comercio debido a que los mercados cerrados por el fin de semana o el puente. Sin embargo, incluso con la participación macro, la situación parece no favorecer a los alcistas de Bitcoin. Como informó Cointelegraph, el viernes los principales índices, con la notable excepción de China, cerraron la jornada en rojo.",
+    "leido": false
+},
+{
+    "id": 3,
+    "titulo": "El negocio de criptomonedas de Robinhood tuvo un crecimiento significativo durante el primer trimestre a pesar de la caída de los ingresos",
+    "categoria": "Cryptos",
+    "imagen": "./img/robinhood.png",
+    "imagenOpacidad": "./img/robinhood-opacidad.png",
+    "sinopsis": "El popular bróker minorista incluyó en su plataforma cuatro tokens de tendencia en el primer trimestre de 2022.",
+    "texto": "El 28 de abril, la plataforma de corretaje de descuento Robinhood publicó sus resultados financieros para el primer trimestre de 2022. En términos interanuales, los ingresos netos de la empresa disminuyeron un 43%, hasta los USD 299 millones. En concreto, los ingresos procedentes de la negociación de criptomonedas cayeron un 39%, hasta los USD 54 millones, durante el mismo periodo. Esto se debió en parte a una disminución del interés en las acciones memes, así como a un mercado de criptomonedas a la baja que dominó gran parte de los tres primeros meses del año. Sin embargo, a pesar de la disminución de las ventas, las cuentas acumuladas netas de la empresa aumentaron un 27% con respecto al 2021, hasta los 22.8 millones. Al mismo tiempo, los activos totales bajo custodia aumentaron un 15% hasta los USD 93,100 millones. Robinhood dio varios pasos importantes para mejorar su negocio de criptomonedas. En primer lugar, la empresa habilitó las billeteras de criptomonedas para los aproximadamente dos millones de clientes en lista de espera a principios de abril, y esta semana ya todos los usuarios de la plataforma tienen acceso a una dirección de billetera.",
+    "leido": false
+},
+{
+    "id": 4,
+    "titulo": "¿Qué es el Metaverso y cuáles son aquellos con más posibilidad de crecimiento en 2022?",
+    "categoria": "Metaverso",
+    "imagen": "./img/metaverso.jpeg",
+    "imagenOpacidad": "./img/metaverso-opacidad.png",
+    "sinopsis": "Análisis de algunos metaversos en auge",
+    "texto": "El concepto ya volaba por el aire en los 90s pero pasaron años hasta que la idea arraigó. Sin embargo, pasarían un par décadas hasta que cuajase en el colectivo y empresas de talla mundial, como la actual Meta, se propusieran hacerlo realidad. Podemos pensar en el metaverso como 'Matrix' o 'Ready Player One', una experiencia multimedia inmersiva en la cual podemos ser el personaje que queramos y embarcarnos en innumerables aventuras para desconectar de la vida conectando - irónicamente - a un mundo digital. Los usuarios que hayan usado Habbo o Second Life saben de lo que hablamos. Si una experiencia 2D como aquella podía sumergirte horas en un mundo de bits, imagina lo que pasaría en un mundo 3D. En definitiva, entre los principales metaversos hay mucho margen de crecimiento para el resto del año y lo mismo sucede con los tokens de los ecosistemas. Además, la comunidad es muy entusiasta con estos desarrollos debido a la gran cantidad de opciones, jugabilidad y potencial del Metaverso en los siguientes años.",
+    "leido": false
+},
+{
+    "id": 5,
+    "titulo": "Qatar Airways entra en el metaverso y anuncia QVerse",
+    "categoria": "Metaverso",
+    "imagen": "./img/qatar.jpeg",
+    "imagenOpacidad": "./img/qatar-opacidad.jpg",
+    "sinopsis": "Qatar Airways, una de las principales aerolíneas del mundo, ha anunciado el lanzamiento de su primera experiencia en el metaverso, llamada QVerse.",
+    "texto": "Qatar Airways, una de las principales aerolíneas del mundo, ha anunciado el lanzamiento de su primera experiencia en el metaverso, QVerse, que es una plataforma de realidad virtual en la que los interesados pueden visitar y navegar virtualmente por la zona Premium del Aeropuerto Internacional de Hamad (HIA). Además, a través de la experiencia virtual también es posible experimentar el interior de la cabina del avión de la aerolínea, incluida la clase Business (Qsuite) y la clase Economy. Además, según Akbar Al Baker, la compañía podría anunciar más iniciativas relacionadas con el metaverso y se espera que introduzca nuevas tecnologías para mejorar el viaje de sus pasajeros.",
+    "leido": false
+},
+{
+    "id": 6,
+    "titulo": "El precio del gas ETH sube mientras Yuga Labs obtiene USD 300 millones con la venta de tierras de Otherside",
+    "categoria": "NFTs",
+    "imagen": "./img/otherside.png",
+    "imagenOpacidad": "./img/otherside-opacidad.png",
+    "sinopsis": "Mientras que los NFT de Otherdeed sólo podían acuñarse en APE, también requería ETH para las tasas de gas.",
+    "texto": "Mientras la comunidad era testigo de la mayor acuñación de NFT hasta la fecha, los precios del gas de Ethereum (ETH) subieron a niveles sin precedentes, además de que los usuarios experimentaron transacciones fallidas debido a cuellos de botella en la blockchain. Yuga Labs, creador de Bored Ape Yacht Club, lanzó una venta de tokens no fungibles (NFT) de Otherdeed, que representan títulos de propiedad digitales en su nueva empresa, el metaverso Otherside. Con cada pieza de tierra vendida a 305 ApeCoin (APE) o casi USD 5,800 en el momento de la venta, Yuga Labs ganó USD 319 millones después de que 55,000 NFT se agotaran casi instantáneamente.",
+    "leido": false
+},
+{
+    "id": 7,
+    "titulo": "La alta actividad de bots en la red Solana resulta en la séptima caída en lo que va de 2022",
+    "categoria": "Cryptos",
+    "imagen": "./img/solana.jpeg",
+    "imagenOpacidad": "./img/solana-opacidad.jpg",
+    "sinopsis": "Los bots de acuñación de NFT en Solana aportaron más de 4 millones de transacciones por segundo, dejando fuera de consenso a los validadores y haciendo que la red se cayera por unas siete horas.",
+    "texto": "La red Solana sufrió una caída de siete horas durante la noche entre el sábado y el domingo debido a un gran número de transacciones de bots de acuñación de tokens no fungibles (NFT). Un récord de cuatro millones de transacciones, o 100 gigabits de datos por segundo, congestionó la red y provocó que los validadores quedaran fuera de consenso, lo que hizo que la red Solana se cayera aproximadamente a las 20:00 UTC del sábado. No fue hasta siete horas después, el domingo a las 3:00 UTC, que los validadores pudieron reiniciar con éxito la red principal.",
+    "leido": false
+},
+{
+    "id": 8,
+    "titulo": "Se prevé que el sector de los NFT mueva unos 800,000 millones de dólares en los próximos dos años",
+    "categoria": "NFTs",
+    "imagen": "./img/nfts.jpeg",
+    "imagenOpacidad": "./img/nfts-opacidad.jpg",
+    "sinopsis": "Más del 50% de los encuestados destacaron que tienen una mentalidad HODL y ven un futuro en el que los tokens no fungibles podrían ser elementos importantes en los juegos.",
+    "texto": "Aunque los NFT forman parte del mercado de las criptomonedas desde 2014, el interés y la adopción han aumentado rápidamente en los últimos dos años. En su punto álgido, en agosto de 2021, el volumen total de comercio con NFT superó los USD 5,000 millones, dando inicio a lo que se conoció como el 'verano de los NFT'.Según un informe de Coingecko, ahora se espera que el mercado de NFT mueva más de USD 800.000 millones en los próximos dos años. El informe, que utilizó en su mayoría inversores de Asia y el Pacífico, destacó que de 871 encuestados, alrededor del 72% de ellos ya posee NFT(s), y más del 50% declaró tener 5 o más.",
+    "leido": false
+},
+{
+    "id": 9,
+    "titulo": "Una aplicación de fútbol con sede en Berlín ingresa al metaverso luego de una recaudación de fondos de USD 300 millones",
+    "categoria": "Metaverso",
+    "imagen": "./img/onefootball.jpeg",
+    "imagenOpacidad": "./img/onefootball-opacidad.jpg",
+    "sinopsis": "La ronda de financiación estuvo liderada por Liberty City Ventures, con la participación de plataformas blockchain y empresas de capital de riesgo, incluidas Animoca Brands y Dapper Labs.",
+    "texto": "OneFootball, una mediática aplicación alemana de fútbol, ha recaudado 300 millones de dólares en una ronda de Serie D para hacer crecer la presencia de la empresa en la Web3 y desarrollar nuevas funciones en su plataforma. Según un anuncio realizado el jueves, OneFootball y Animoca Brands, centrada en tokens no fungibles, han creado una empresa conjunta llamada OneFootball Labs. La nueva plataforma 'permitirá a los clubes, las ligas, las federaciones y los jugadores proporcionar activos digitales y experiencias centradas en los aficionados basadas en la tecnología blockchain.' Además, los aficionados podrán obtener y almacenar coleccionables virtuales utilizando su dirección de correo electrónico y su tarjeta de crédito.",
+    "leido": false
+}
+]
